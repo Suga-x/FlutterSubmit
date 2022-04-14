@@ -48,7 +48,7 @@ class mainmenu extends StatelessWidget {
                 Container(
                   width: 165,
                     child: Center(
-                      child: FlatButton(
+                      child: MaterialButton(
                         child: Row(
                           children: [
                             Text(
